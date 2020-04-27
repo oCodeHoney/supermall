@@ -20,4 +20,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 关于接口
 
-需要资料和接口的添加老师微信，微信名字是coderwhy
+需要资料和接口的添加老师微信coderwhy002，微信名字是coderwhy
